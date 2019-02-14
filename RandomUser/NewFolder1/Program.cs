@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using Practice.NewFolder1;
+using RandomUser.NewFolder1;
 
-namespace Practice
+namespace RandomUser
 {
 
     //public enum RequestType { SALES, SALESIMS, STORED, MOVING, GOODS_RECEIPT};
